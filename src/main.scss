@@ -5,3 +5,9 @@
 body {
   background-image: url("./banner.jpg");
 }
+
+@media (min-resolution: 2dppx) {
+  body {
+    background-image: url("./card.jpeg");
+  }
+}
