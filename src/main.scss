@@ -5,3 +5,7 @@
 body {
   background-image: url("./banner.jpg");
 }
+
+::placeholder {
+  color: gray;
+}
